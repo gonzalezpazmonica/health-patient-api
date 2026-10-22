@@ -3,7 +3,7 @@
 **Sector**: Healthcare (98% confidence)
 **Date**: 2026-02-28
 **Original Compliance Score**: 8%
-**Updated Compliance Score**: 48% (estimated)
+**Updated Compliance Score**: 18% calculado (7/38: 3 ya cumplidos + 4 corregidos; el 48% «estimado» anterior no salía de los hallazgos)
 **Last Updated**: 2026-02-28 — Post-Remediation
 
 ---
